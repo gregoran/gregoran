@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gregoran
+- 👋 Hi, I’m Goran
 - 👀 I’m interested in statistics and data trends 
 - 🌱 I’m currently learning Data Analytics using Python 
 - 💞️ I’m looking to collaborate on a project, where I can help with data cleaning and manipulation  
